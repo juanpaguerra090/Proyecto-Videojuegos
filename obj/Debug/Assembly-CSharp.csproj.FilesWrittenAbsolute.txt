@@ -1,0 +1,63 @@
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/obj/Debug/Assembly-CSharp.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEditor.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos 2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/obj/Debug/Assembly-CSharp.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEditor.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Unity.DataContract.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/miguelangelcabralramirez/Documents/Videojuegos/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/obj/Debug/Assembly-CSharp.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEditor.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Unity.DataContract.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/juanpablo/Downloads/Proyecto Videojuegos/Temp/bin/Debug/Assembly-CSharp.dll
